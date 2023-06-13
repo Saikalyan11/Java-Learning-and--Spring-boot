@@ -1,4 +1,3 @@
-package Operators;
 
 public class Assignmentoperator {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Operators;
 
 public class Relationoperator {
     public static void main(String[] args) {
