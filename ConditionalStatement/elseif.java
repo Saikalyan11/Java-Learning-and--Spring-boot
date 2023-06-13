@@ -10,6 +10,7 @@ public class elseif {
             System.out.println(x);
         else if (y > x && y > z) // if this block is also false then i executes else block
             System.out.println(y);
+        // we can use else if multiple times
         else
             System.out.println(z);
     }
