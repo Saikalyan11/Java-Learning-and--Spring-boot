@@ -6,7 +6,7 @@ public class Array {
         // Static Array
         int nums[] = { 1, 2, 3, 4, 5, 6, 7, 7, 8, 10, 12, 13 };
 
-        for (int i = 0; i <= nums.length; i++)
+        for (int i = 0; i < nums.length; i++)
             System.out.println(nums[i]);
 
         // Dynamic Array
@@ -17,7 +17,7 @@ public class Array {
         numbers[2] = 50;
         numbers[3] = 100;
 
-        for (int i = 0; i <= numbers.length; i++)
+        for (int i = 0; i < 4; i++)
             System.out.println(numbers[i]);
 
     }
