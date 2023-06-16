@@ -1,7 +1,7 @@
 package Arrays;
 
 public class Array {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         // Static Array
         int nums[] = { 1, 2, 3, 4, 5, 6, 7, 7, 8, 10, 12, 13 };
