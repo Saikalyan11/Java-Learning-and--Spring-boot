@@ -27,5 +27,8 @@ public class Stringbuffer {
 
         // Inserting data
         System.out.println("// Inserting data " + string.insert(0, "Hello "));
+
+        // Reverse the Stringbuffer
+        System.out.println("Reverse String buffer " + string.reverse());
     }
 }
