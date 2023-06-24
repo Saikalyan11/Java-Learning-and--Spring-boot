@@ -17,7 +17,7 @@ public class constructor {
         this.Interest = Interest;
     }
 
-    public String show() {
+    public String toString() {
         return name + " : " +
                 id + " : " + batch + " : "
                 + Interest;
