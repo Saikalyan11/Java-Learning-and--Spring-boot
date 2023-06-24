@@ -7,7 +7,7 @@ public class constructor {
     String Interest;
 
     public constructor() {
-
+        name = " Sai kalyan";
     }
 
     public constructor(String name, int id, String batch, String Interest) {
