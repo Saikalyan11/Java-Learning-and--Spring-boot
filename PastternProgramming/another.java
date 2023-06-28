@@ -2,8 +2,6 @@ package PastternProgramming;
 
 import java.util.*;
 
-import ConditionalStatement.elseif;
-
 public class another {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
