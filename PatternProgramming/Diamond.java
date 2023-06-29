@@ -13,7 +13,7 @@ public class Diamond {
                         i - j == (n - 1) / 2 || // p2
                         i + j == n - 1 + (n - 1) / 2 || // p3
                         j - i == (n - 1) / 2 // p4
-                ) {
+                        || i == 0 || j == 0 || i == n - 1 || j == n - 1) {
                     System.out.print("*");
                 } else {
                     System.out.print(" ");
