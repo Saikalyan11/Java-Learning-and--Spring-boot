@@ -1,1 +1,4 @@
-package Pattern
+package PatternProgramming;
+
+public class Cross {
+}
