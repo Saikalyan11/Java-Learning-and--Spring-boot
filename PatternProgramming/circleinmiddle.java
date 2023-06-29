@@ -1,4 +1,4 @@
-package PastternProgramming;
+package PatternProgramming;
 
 import java.util.Scanner;
 

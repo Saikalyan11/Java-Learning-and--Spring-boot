@@ -1,4 +1,4 @@
-package PastternProgramming;
+package PatternProgramming;
 
 public class Squarebox {
     public static void main(String[] args) {
