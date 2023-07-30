@@ -15,7 +15,7 @@ public class sortstring {
         // while using small letters it is print in perfect ascending order
 
         // using Capital letter
-        String str1 = "Java Is Love";
+        String str1 = "Java Is Love 3000";
         char[] ch1 = str1.toCharArray(); // Converts String element into Char Array ex: {J,a,v,a}
         Arrays.sort(ch1); // so by this we can sort the characters from ch array
         String newsortedstring = new String(ch1); // We use this to convert a char array into normal String
