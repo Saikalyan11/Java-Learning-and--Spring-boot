@@ -29,13 +29,13 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
 <summary>List of IDE’s</summary>
 <!--All you need is a blank line-->
 
-        + Eclipse.
-        + IntelliJ.
-        + VS Code.
-        + NetBeans.
-        + JCreator.
-        + Oracle Developer Studio.
-        + And More.
+        > Eclipse.
+        > IntelliJ.
+        > VS Code.
+        > NetBeans.
+        > JCreator.
+        > Oracle Developer Studio.
+        > And More.
 
 </details>
 
