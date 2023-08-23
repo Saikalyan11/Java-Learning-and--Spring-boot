@@ -49,8 +49,6 @@ Want to learn with my code by editing:
 ``` 
 git clone <repository url>
 
-```
-
 ### **Built with**
 
 A lot of interest and love with little Java and Spring boot.
@@ -69,4 +67,7 @@ To contribute with my code make pull request which improves the functionality of
 **`Conquest Tech`**
 
 **`Made by ©️ Sai Kalyan`**
+
+```
+
 ```
