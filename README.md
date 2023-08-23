@@ -45,10 +45,11 @@ It’s pretty straightforward⏩ :
 
 Want to learn with my code by editing:
 
-<aside>
-<img src="/icons/git_gray.svg" alt="/icons/git_gray.svg" width="40px" /> `**git clone <repository url>**`
+```
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+git clone <repository url>
 
-</aside>
+```
 
 ### **Built with**
 
