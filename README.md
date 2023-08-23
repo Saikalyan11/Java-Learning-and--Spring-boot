@@ -45,8 +45,8 @@ It’s pretty straightforward⏩ :
 
 Want to learn with my code by editing:
 
-```
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+``` 
 git clone <repository url>
 
 ```
@@ -69,3 +69,4 @@ To contribute with my code make pull request which improves the functionality of
 **`Conquest Tech`**
 
 **`Made by ©️ Sai Kalyan`**
+```
