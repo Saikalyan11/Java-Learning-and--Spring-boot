@@ -24,7 +24,7 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
 
 - You can use your **notepad** which is already in your 🖥️**System**.
 - It’s better 😌 to use **IDE,** this **IDE** gives some shortcuts while writing code.
-- I prefer to use **VS Code** because it is used for all programming languages. But most of them use different **_IDE_** for different languages. If you want to work only with **Java** it’s better to use **_Eclipse_** and **_IntelliJ,_** these will provide more faster process speed towards **Java** because they are used to work only on \*\*_Java_.\*\*
+- I prefer to use **VS Code** because it is used for all programming languages. But most of them use different **_IDE_** for different languages. If you want to work only with **Java** it’s better to use **_Eclipse_** and **_IntelliJ,_** these will provide more faster process speed towards **Java** because they are used to work only on **Java.**
 
 <summary>List of IDE’s</summary>
 <!--All you need is a blank line-->
