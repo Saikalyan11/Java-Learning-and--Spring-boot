@@ -62,7 +62,7 @@ To contribute with my code make pull request which improves the functionality of
 - Clear, short, crisp description of the learning modules.
 - should add to the value of the application.
 
-**`I am from Hyderabad, Telangana.`**
+**I am from Hyderabad, Telangana.**
 
 ### **Conquest Tech**
 
