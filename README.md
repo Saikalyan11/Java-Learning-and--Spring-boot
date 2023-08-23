@@ -39,7 +39,7 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
 
 </details>
 
-### **Installation**
+## **Installation**
 
 It’s pretty straightforward⏩ :
 
@@ -49,11 +49,11 @@ Want to learn with my code by editing:
  
 ```git clone <repository url> ```
 
-### **Built with**
+## **Built with**
 
 A lot of interest and love with little Java and Spring boot.
 
-### **Contributing**
+## **Contributing**
 
 Make a repo in your git-hub and learn accordingly with me and complete with me.
 
