@@ -54,7 +54,7 @@ Want to learn with my code by editing:
 
 A lot of interest and love with little Java and Spring boot.
 
-### Contributing
+### **Contributing**
 
 Make a repo in your git-hub and learn accordingly with me and complete with me.
 
@@ -63,8 +63,8 @@ To contribute with my code make pull request which improves the functionality of
 - Clear, short, crisp description of the learning modules.
 - should add to the value of the application.
 
-**I am from Hyderabad, Telangana.**
+**`I am from Hyderabad, Telangana.`**
 
-**Conquest Tech**
+**`Conquest Tech`**
 
-**Made by ©️ Sai Kalyan**
+**`Made by ©️ Sai Kalyan`**
