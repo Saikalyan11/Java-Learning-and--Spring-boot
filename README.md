@@ -64,6 +64,6 @@ To contribute with my code make pull request which improves the functionality of
 
 **`I am from Hyderabad, Telangana.`**
 
-### **`Conquest Tech`**
+### **Conquest Tech**
 
 **Made by ©️ Sai Kalyan**
