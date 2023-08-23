@@ -26,19 +26,6 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
 - It’s better 😌 to use **IDE,** this **IDE** gives some shortcuts while writing code.
 - I prefer to use **VS Code** because it is used for all programming languages. But most of them use different **_IDE_** for different languages. If you want to work only with **Java** it’s better to use **_Eclipse_** and **_IntelliJ,_** these will provide more faster process speed towards **Java** because they are used to work only on \***_Java_.\***
 
-<details>
-<summary></summary>
-<ul>
-<li> Eclipse.</li>
-<ul>
-<li> IntelliJ</li>
-<li> VS Code</li>
-</ul>
-<li> NetBeans</li>
-</ul>
-</details>
-
-<details>
 <summary>List of IDE’s</summary>
 <!--All you need is a blank line-->
 
@@ -51,3 +38,33 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
         + And More.
 
 </details>
+
+### **Installation**
+
+It’s pretty straightforward⏩ :
+
+Want to learn with my code by editing:
+
+<aside>
+<img src="/icons/git_gray.svg" alt="/icons/git_gray.svg" width="40px" /> `**git clone <repository url>**`
+
+</aside>
+
+### **Built with**
+
+A lot of interest and love with little Java and Spring boot.
+
+### Contributing
+
+Make a repo in your git-hub and learn accordingly with me and complete with me.
+
+To contribute with my code make pull request which improves the functionality of the application in any sort. It should confirm the following conditions.
+
+- Clear, short, crisp description of the learning modules.
+- should add to the value of the application.
+
+**I am from Hyderabad, Telangana.**
+
+**Conquest Tech**
+
+**Made by ©️ Sai Kalyan**
