@@ -41,9 +41,9 @@ And **_Spring boot_** will come in handy. Once you learn **_Java, Spring Boot_**
 
 ## **Installation**
 
-- It’s pretty straightforward⏩ :
-
 - Want to learn with my code by editing:
+
+- It’s pretty straightforward⏩ :
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
