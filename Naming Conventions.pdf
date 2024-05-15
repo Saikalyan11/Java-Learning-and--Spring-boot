@@ -1,0 +1,15 @@
+Pascal Conventions
+
+Class --> 1st letter shoould be Capital.
+
+
+
+CamelCase Conventions
+Variable and mthod --> all small letters
+
+..........
+contants - All letters Capital 
+
+
+we can also use underscore which is called as snake casing.
+but java developers do not like snake casing because its kind of irritating.
